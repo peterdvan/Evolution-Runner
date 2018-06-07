@@ -1,0 +1,845 @@
+
+Characters.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+DarkKnightEvo3NO
+  rotate: false
+  xy: 1, 439
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+DarkKnightEvo3O
+  rotate: false
+  xy: 1, 367
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+DarkKnightEvo3Owned
+  rotate: false
+  xy: 53, 439
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+HealerEvo3NO
+  rotate: false
+  xy: 1, 295
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+HealerEvo3O
+  rotate: false
+  xy: 53, 367
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+HealerEvo3Owned
+  rotate: false
+  xy: 105, 439
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+MageEvo3NO
+  rotate: false
+  xy: 1, 223
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+MageEvo3O
+  rotate: false
+  xy: 53, 295
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+MageEvo3Owned
+  rotate: false
+  xy: 105, 367
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+MonkEvo3NO
+  rotate: false
+  xy: 157, 439
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+MonkEvo3O
+  rotate: false
+  xy: 1, 151
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+MonkEvo3Owned
+  rotate: false
+  xy: 53, 223
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+NinjaEvo3NO
+  rotate: false
+  xy: 105, 295
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+NinjaEvo3O
+  rotate: false
+  xy: 157, 367
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+NinjaEvo3Owned
+  rotate: false
+  xy: 209, 439
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+PaladinEvo3NO
+  rotate: false
+  xy: 1, 79
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+PaladinEvo3O
+  rotate: false
+  xy: 53, 151
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+PaladinEvo3Owned
+  rotate: false
+  xy: 105, 223
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+RangerEvo3NO
+  rotate: false
+  xy: 157, 295
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+RangerEvo3O
+  rotate: false
+  xy: 209, 367
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+RangerEvo3Owned
+  rotate: false
+  xy: 261, 439
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+SamuraiEvo3NO
+  rotate: false
+  xy: 1, 7
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+SamuraiEvo3O
+  rotate: false
+  xy: 53, 79
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+SamuraiEvo3Owned
+  rotate: false
+  xy: 105, 151
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+SoldierEvo3NO
+  rotate: false
+  xy: 157, 223
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+SoldierEvo3O
+  rotate: false
+  xy: 209, 295
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+SoldierEvo3Owned
+  rotate: false
+  xy: 261, 367
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+WarriorEvo3NO
+  rotate: false
+  xy: 313, 439
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+WarriorEvo3O
+  rotate: false
+  xy: 53, 7
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+WarriorEvo3Owned
+  rotate: false
+  xy: 105, 79
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+DarkKnightEvo1
+  rotate: false
+  xy: 157, 181
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+DarkKnightEvo1LFF
+  rotate: false
+  xy: 209, 253
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+DarkKnightEvo1RFF
+  rotate: false
+  xy: 261, 325
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+DarkKnightEvo2
+  rotate: false
+  xy: 313, 397
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+DarkKnightEvo2LFF
+  rotate: false
+  xy: 365, 469
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+DarkKnightEvo2RFF
+  rotate: false
+  xy: 105, 37
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+DarkKnightEvo3
+  rotate: false
+  xy: 157, 139
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+DarkKnightEvo3LFF
+  rotate: false
+  xy: 399, 469
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+DarkKnightEvo3RFF
+  rotate: false
+  xy: 157, 97
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+HealerEvo1
+  rotate: false
+  xy: 433, 469
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+HealerEvo1LFF
+  rotate: false
+  xy: 467, 469
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+HealerEvo1RFF
+  rotate: false
+  xy: 209, 211
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+HealerEvo2
+  rotate: false
+  xy: 261, 283
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+HealerEvo2LFF
+  rotate: false
+  xy: 313, 355
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+HealerEvo2RFF
+  rotate: false
+  xy: 365, 427
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+HealerEvo3
+  rotate: false
+  xy: 399, 427
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+HealerEvo3LFF
+  rotate: false
+  xy: 433, 427
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+HealerEvo3RFF
+  rotate: false
+  xy: 467, 427
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+MageEvo1
+  rotate: false
+  xy: 139, 37
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+MageEvo1LFF
+  rotate: false
+  xy: 191, 169
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+MageEvo1RFF
+  rotate: false
+  xy: 191, 127
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+MageEvo2
+  rotate: false
+  xy: 191, 85
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+MageEvo2LFF
+  rotate: false
+  xy: 225, 169
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+MageEvo2RFF
+  rotate: false
+  xy: 225, 127
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+MageEvo3
+  rotate: false
+  xy: 225, 85
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+MageEvo3LFF
+  rotate: false
+  xy: 295, 313
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+MageEvo3RFF
+  rotate: false
+  xy: 295, 271
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+MonkEvo1
+  rotate: false
+  xy: 329, 313
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+MonkEvo1LFF
+  rotate: false
+  xy: 329, 271
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+MonkEvo1RFF
+  rotate: false
+  xy: 243, 241
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+MonkEvo2
+  rotate: false
+  xy: 347, 385
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+MonkEvo2LFF
+  rotate: false
+  xy: 381, 385
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+MonkEvo2RFF
+  rotate: false
+  xy: 415, 385
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+MonkEvo3
+  rotate: false
+  xy: 449, 385
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+MonkEvo3LFF
+  rotate: false
+  xy: 173, 43
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+MonkEvo3RFF
+  rotate: false
+  xy: 207, 43
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+NinjaEvo1
+  rotate: false
+  xy: 241, 43
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+NinjaEvo1LFF
+  rotate: false
+  xy: 277, 229
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+NinjaEvo1RFF
+  rotate: false
+  xy: 311, 229
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+NinjaEvo2
+  rotate: false
+  xy: 345, 229
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+NinjaEvo2LFF
+  rotate: false
+  xy: 363, 343
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+NinjaEvo2RFF
+  rotate: false
+  xy: 363, 301
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+NinjaEvo3
+  rotate: false
+  xy: 397, 343
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+NinjaEvo3LFF
+  rotate: false
+  xy: 397, 301
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+NinjaEvo3RFF
+  rotate: false
+  xy: 431, 343
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+PaladinEvo1
+  rotate: false
+  xy: 431, 301
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+PaladinEvo1LFF
+  rotate: false
+  xy: 465, 343
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+PaladinEvo1RFF
+  rotate: false
+  xy: 465, 301
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+PaladinEvo2
+  rotate: false
+  xy: 379, 259
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+PaladinEvo2LFF
+  rotate: false
+  xy: 413, 259
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+PaladinEvo2RFF
+  rotate: false
+  xy: 447, 259
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+PaladinEvo3
+  rotate: false
+  xy: 379, 217
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+PaladinEvo3LFF
+  rotate: false
+  xy: 413, 217
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+PaladinEvo3RFF
+  rotate: false
+  xy: 447, 217
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+RangerEvo1
+  rotate: false
+  xy: 173, 1
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+RangerEvo1LFF
+  rotate: false
+  xy: 207, 1
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+RangerEvo1RFF
+  rotate: false
+  xy: 241, 1
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+RangerEvo2
+  rotate: false
+  xy: 259, 187
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+RangerEvo2LFF
+  rotate: false
+  xy: 259, 145
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+RangerEvo2RFF
+  rotate: false
+  xy: 293, 187
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+RangerEvo3
+  rotate: false
+  xy: 259, 103
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+RangerEvo3LFF
+  rotate: false
+  xy: 293, 145
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+RangerEvo3RFF
+  rotate: false
+  xy: 327, 187
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+SamuraiEvo1
+  rotate: false
+  xy: 293, 103
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+SamuraiEvo1LFF
+  rotate: false
+  xy: 327, 145
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+SamuraiEvo1RFF
+  rotate: false
+  xy: 327, 103
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+SamuraiEvo2
+  rotate: false
+  xy: 275, 61
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+SamuraiEvo2LFF
+  rotate: false
+  xy: 275, 19
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+SamuraiEvo2RFF
+  rotate: false
+  xy: 309, 61
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+SamuraiEvo3
+  rotate: false
+  xy: 309, 19
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+SamuraiEvo3LFF
+  rotate: false
+  xy: 343, 61
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+SamuraiEvo3RFF
+  rotate: false
+  xy: 343, 19
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+SoldierEvo1
+  rotate: false
+  xy: 361, 175
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+SoldierEvo1LFF
+  rotate: false
+  xy: 361, 133
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+SoldierEvo1RFF
+  rotate: false
+  xy: 395, 175
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+SoldierEvo2
+  rotate: false
+  xy: 395, 133
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+SoldierEvo2LFF
+  rotate: false
+  xy: 429, 175
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+SoldierEvo2RFF
+  rotate: false
+  xy: 429, 133
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+SoldierEvo3
+  rotate: false
+  xy: 463, 175
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+SoldierEvo3LFF
+  rotate: false
+  xy: 463, 133
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+SoldierEvo3RFF
+  rotate: false
+  xy: 377, 91
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+WarriorEvo1
+  rotate: false
+  xy: 377, 49
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+WarriorEvo1LFF
+  rotate: false
+  xy: 411, 91
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+WarriorEvo1RFF
+  rotate: false
+  xy: 411, 49
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+WarriorEvo2
+  rotate: false
+  xy: 445, 91
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+WarriorEvo2LFF
+  rotate: false
+  xy: 479, 91
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+WarriorEvo2RFF
+  rotate: false
+  xy: 445, 49
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+WarriorEvo3
+  rotate: false
+  xy: 479, 49
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+WarriorEvo3LFF
+  rotate: false
+  xy: 377, 7
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+WarriorEvo3RFF
+  rotate: false
+  xy: 411, 7
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1

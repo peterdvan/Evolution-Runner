@@ -1,0 +1,1357 @@
+
+EvoRunnerAssets.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fireball6
+  rotate: false
+  xy: 1, 826
+  size: 461, 197
+  orig: 461, 197
+  offset: 0, 0
+  index: -1
+burning_crate00
+  rotate: false
+  xy: 464, 767
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+priestAttack1
+  rotate: false
+  xy: 1, 524
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+iceball1
+  rotate: false
+  xy: 403, 576
+  size: 437, 189
+  orig: 437, 189
+  offset: 0, 0
+  index: -1
+EvoBall8
+  rotate: false
+  xy: 403, 767
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+burning_crate01
+  rotate: false
+  xy: 722, 767
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+iceball6
+  rotate: false
+  xy: 403, 377
+  size: 461, 197
+  orig: 461, 197
+  offset: 0, 0
+  index: -1
+e10
+  rotate: false
+  xy: 842, 585
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Mage_Female_Standing
+  rotate: false
+  xy: 980, 929
+  size: 43, 94
+  orig: 43, 94
+  offset: 0, 0
+  index: -1
+Mage_Female_LFF
+  rotate: false
+  xy: 980, 837
+  size: 43, 90
+  orig: 43, 90
+  offset: 0, 0
+  index: -1
+Ranger_Female_RFF
+  rotate: false
+  xy: 980, 768
+  size: 34, 67
+  orig: 34, 67
+  offset: 0, 0
+  index: -1
+fireball1
+  rotate: false
+  xy: 1, 333
+  size: 398, 189
+  orig: 398, 189
+  offset: 0, 0
+  index: -1
+LavaDeath3
+  rotate: false
+  xy: 842, 580
+  size: 50, 3
+  orig: 50, 3
+  offset: 0, 0
+  index: -1
+slash4
+  rotate: false
+  xy: 866, 450
+  size: 146, 128
+  orig: 146, 128
+  offset: 0, 0
+  index: -1
+slash3
+  rotate: false
+  xy: 866, 340
+  size: 128, 108
+  orig: 128, 108
+  offset: 0, 0
+  index: -1
+healerAttack5
+  rotate: false
+  xy: 996, 423
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+SoldierBullet1
+  rotate: false
+  xy: 1014, 565
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+CoinCollected
+  rotate: false
+  xy: 996, 396
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+arrow1
+  rotate: false
+  xy: 996, 386
+  size: 23, 8
+  orig: 23, 8
+  offset: 0, 0
+  index: -1
+arrow2
+  rotate: false
+  xy: 996, 376
+  size: 23, 8
+  orig: 23, 8
+  offset: 0, 0
+  index: -1
+arrow3
+  rotate: false
+  xy: 996, 366
+  size: 23, 8
+  orig: 23, 8
+  offset: 0, 0
+  index: -1
+Coin
+  rotate: false
+  xy: 996, 348
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+fireball4
+  rotate: false
+  xy: 401, 178
+  size: 429, 197
+  orig: 429, 197
+  offset: 0, 0
+  index: -1
+e0
+  rotate: false
+  xy: 832, 199
+  size: 185, 139
+  orig: 185, 139
+  offset: 0, 0
+  index: -1
+EvoRunner
+  rotate: false
+  xy: 832, 340
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+e7
+  rotate: false
+  xy: 832, 39
+  size: 182, 158
+  orig: 182, 158
+  offset: 0, 0
+  index: -1
+fireball2
+  rotate: false
+  xy: 1, 43
+  size: 461, 133
+  orig: 461, 133
+  offset: 0, 0
+  index: -1
+e4
+  rotate: false
+  xy: 464, 3
+  size: 180, 173
+  orig: 180, 173
+  offset: 0, 0
+  index: -1
+e8
+  rotate: false
+  xy: 646, 8
+  size: 180, 168
+  orig: 180, 168
+  offset: 0, 0
+  index: -1
+healerAttack1
+  rotate: false
+  xy: 828, 1
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+healerAttack3
+  rotate: false
+  xy: 862, 2
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+healerAttack6
+  rotate: false
+  xy: 896, 2
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+goldCoin1
+  rotate: false
+  xy: 930, 5
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+goldCoin2
+  rotate: false
+  xy: 964, 5
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fire11
+  rotate: false
+  xy: 1, 194
+  size: 64, 137
+  orig: 64, 137
+  offset: 0, 0
+  index: -1
+fire12
+  rotate: false
+  xy: 67, 194
+  size: 64, 137
+  orig: 64, 137
+  offset: 0, 0
+  index: -1
+fire2
+  rotate: false
+  xy: 133, 196
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+fire7
+  rotate: false
+  xy: 199, 196
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+pig_flipped
+  rotate: false
+  xy: 1, 1
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+slash2
+  rotate: false
+  xy: 265, 252
+  size: 128, 79
+  orig: 128, 79
+  offset: 0, 0
+  index: -1
+Mage_Male_RFF
+  rotate: false
+  xy: 265, 178
+  size: 34, 72
+  orig: 34, 72
+  offset: 0, 0
+  index: -1
+Mage_Male_LFF
+  rotate: false
+  xy: 301, 179
+  size: 34, 71
+  orig: 34, 71
+  offset: 0, 0
+  index: -1
+darkSlash0
+  rotate: false
+  xy: 133, 178
+  size: 64, 16
+  orig: 64, 16
+  offset: 0, 0
+  index: -1
+SwordSlash1
+  rotate: false
+  xy: 199, 178
+  size: 64, 16
+  orig: 64, 16
+  offset: 0, 0
+  index: -1
+EvoBall7
+  rotate: false
+  xy: 337, 189
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+bat2
+  rotate: false
+  xy: 183, 1
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+LavaDeath2
+  rotate: false
+  xy: 337, 179
+  size: 40, 8
+  orig: 40, 8
+  offset: 0, 0
+  index: -1
+darkSlash1
+  rotate: false
+  xy: 1, 183
+  size: 64, 9
+  orig: 64, 9
+  offset: 0, 0
+  index: -1
+SwordSlash3
+  rotate: false
+  xy: 67, 183
+  size: 64, 9
+  orig: 64, 9
+  offset: 0, 0
+  index: -1
+Platform1
+  rotate: false
+  xy: 217, 9
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+Platform2
+  rotate: false
+  xy: 347, 9
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+
+EvoRunnerAssets2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+iceball2
+  rotate: false
+  xy: 1, 890
+  size: 461, 133
+  orig: 461, 133
+  offset: 0, 0
+  index: -1
+iceball4
+  rotate: false
+  xy: 464, 826
+  size: 429, 197
+  orig: 429, 197
+  offset: 0, 0
+  index: -1
+slash1
+  rotate: false
+  xy: 895, 952
+  size: 128, 71
+  orig: 128, 71
+  offset: 0, 0
+  index: -1
+Intro_NPC
+  rotate: false
+  xy: 895, 850
+  size: 89, 100
+  orig: 89, 100
+  offset: 0, 0
+  index: -1
+Ranger_Female_Standing
+  rotate: false
+  xy: 986, 871
+  size: 35, 79
+  orig: 35, 79
+  offset: 0, 0
+  index: -1
+BaseEvo_LFF
+  rotate: false
+  xy: 986, 818
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+LavaMove3
+  rotate: false
+  xy: 895, 829
+  size: 65, 19
+  orig: 65, 19
+  offset: 0, 0
+  index: -1
+fire1
+  rotate: false
+  xy: 895, 694
+  size: 64, 133
+  orig: 64, 133
+  offset: 0, 0
+  index: -1
+EvoBall10
+  rotate: false
+  xy: 961, 758
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+EvoBall11
+  rotate: false
+  xy: 961, 698
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+EvoBall12
+  rotate: false
+  xy: 961, 638
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+fireball5
+  rotate: false
+  xy: 1, 691
+  size: 420, 197
+  orig: 420, 197
+  offset: 0, 0
+  index: -1
+EvoBall2
+  rotate: false
+  xy: 423, 838
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+EvoBall3
+  rotate: false
+  xy: 423, 786
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+EvoBall4
+  rotate: false
+  xy: 423, 786
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+iceball5
+  rotate: false
+  xy: 460, 627
+  size: 420, 197
+  orig: 420, 197
+  offset: 0, 0
+  index: -1
+EvoBall5
+  rotate: false
+  xy: 423, 734
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+Base_Male_Standing
+  rotate: false
+  xy: 423, 643
+  size: 34, 89
+  orig: 34, 89
+  offset: 0, 0
+  index: -1
+fireball3
+  rotate: false
+  xy: 1, 556
+  size: 420, 133
+  orig: 420, 133
+  offset: 0, 0
+  index: -1
+Base_Female_Standing
+  rotate: false
+  xy: 423, 553
+  size: 34, 88
+  orig: 34, 88
+  offset: 0, 0
+  index: -1
+iceball3
+  rotate: false
+  xy: 1, 421
+  size: 420, 133
+  orig: 420, 133
+  offset: 0, 0
+  index: -1
+fire6
+  rotate: false
+  xy: 882, 559
+  size: 64, 133
+  orig: 64, 133
+  offset: 0, 0
+  index: -1
+fire10
+  rotate: false
+  xy: 948, 504
+  size: 64, 132
+  orig: 64, 132
+  offset: 0, 0
+  index: -1
+burning_crate02
+  rotate: false
+  xy: 1, 163
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+e5
+  rotate: false
+  xy: 1, 2
+  size: 180, 159
+  orig: 180, 159
+  offset: 0, 0
+  index: -1
+fire5
+  rotate: false
+  xy: 183, 29
+  size: 64, 132
+  orig: 64, 132
+  offset: 0, 0
+  index: -1
+bat1
+  rotate: false
+  xy: 183, 2
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+batDeath1
+  rotate: false
+  xy: 217, 2
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+fire15
+  rotate: false
+  xy: 249, 31
+  size: 64, 130
+  orig: 64, 130
+  offset: 0, 0
+  index: -1
+burning_crate03
+  rotate: false
+  xy: 259, 163
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+bat3
+  rotate: false
+  xy: 251, 1
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+pig_three
+  rotate: false
+  xy: 285, 1
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+fire14
+  rotate: false
+  xy: 423, 423
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+Base_Female2_LFF
+  rotate: false
+  xy: 489, 423
+  size: 34, 79
+  orig: 34, 79
+  offset: 0, 0
+  index: -1
+EvoBall8_One
+  rotate: false
+  xy: 489, 504
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+BaseEvo_Standing
+  rotate: false
+  xy: 459, 573
+  size: 28, 52
+  orig: 28, 52
+  offset: 0, 0
+  index: -1
+flower2
+  rotate: false
+  xy: 489, 560
+  size: 32, 65
+  orig: 32, 65
+  offset: 0, 0
+  index: -1
+evo1
+  rotate: false
+  xy: 523, 561
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+slash5
+  rotate: false
+  xy: 315, 33
+  size: 51, 128
+  orig: 51, 128
+  offset: 0, 0
+  index: -1
+healerAttack2
+  rotate: false
+  xy: 319, 1
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+Lava1
+  rotate: false
+  xy: 353, 3
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+fire13
+  rotate: false
+  xy: 368, 35
+  size: 64, 126
+  orig: 64, 126
+  offset: 0, 0
+  index: -1
+goldCoin3
+  rotate: false
+  xy: 384, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+goldCoin4
+  rotate: false
+  xy: 418, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fire4
+  rotate: false
+  xy: 434, 35
+  size: 64, 126
+  orig: 64, 126
+  offset: 0, 0
+  index: -1
+goldCoin5
+  rotate: false
+  xy: 452, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+goldCoin6
+  rotate: false
+  xy: 486, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fire9
+  rotate: false
+  xy: 500, 35
+  size: 64, 126
+  orig: 64, 126
+  offset: 0, 0
+  index: -1
+goldCoin7
+  rotate: false
+  xy: 520, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+goldCoin8
+  rotate: false
+  xy: 554, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+burning_crate04
+  rotate: false
+  xy: 517, 165
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Base_Female2_RFF
+  rotate: false
+  xy: 525, 427
+  size: 34, 75
+  orig: 34, 75
+  offset: 0, 0
+  index: -1
+Elf_LeftFootForward
+  rotate: false
+  xy: 546, 505
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+Mage_Male_Standing
+  rotate: false
+  xy: 561, 427
+  size: 34, 75
+  orig: 34, 75
+  offset: 0, 0
+  index: -1
+Elf_RightFootForward
+  rotate: false
+  xy: 580, 505
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+evo2
+  rotate: false
+  xy: 589, 561
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+e1
+  rotate: false
+  xy: 775, 307
+  size: 240, 195
+  orig: 240, 195
+  offset: 0, 0
+  index: -1
+SamuraiEvo_RFF
+  rotate: false
+  xy: 614, 505
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+EvoBall9
+  rotate: false
+  xy: 648, 506
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+evo3
+  rotate: false
+  xy: 655, 561
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+EvoBall6
+  rotate: false
+  xy: 721, 565
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+EvoBall13
+  rotate: false
+  xy: 721, 505
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+BaseEvo_RFF
+  rotate: false
+  xy: 783, 506
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+evo4
+  rotate: false
+  xy: 783, 561
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+SamuraiEvo_Standing
+  rotate: false
+  xy: 817, 506
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+ChildEvo_RFF
+  rotate: false
+  xy: 847, 510
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+darkSlash2
+  rotate: false
+  xy: 881, 535
+  size: 64, 22
+  orig: 64, 22
+  offset: 0, 0
+  index: -1
+SwordSlash2
+  rotate: false
+  xy: 881, 511
+  size: 64, 22
+  orig: 64, 22
+  offset: 0, 0
+  index: -1
+evo5
+  rotate: false
+  xy: 648, 440
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+EvoBall9_One
+  rotate: false
+  xy: 714, 447
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+redBoomerang0
+  rotate: false
+  xy: 597, 455
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+LavaMove2
+  rotate: false
+  xy: 597, 430
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+LavaDeath1
+  rotate: false
+  xy: 714, 427
+  size: 40, 18
+  orig: 40, 18
+  offset: 0, 0
+  index: -1
+fire3
+  rotate: false
+  xy: 566, 49
+  size: 64, 114
+  orig: 64, 114
+  offset: 0, 0
+  index: -1
+bat4
+  rotate: false
+  xy: 588, 2
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+mushroom1
+  rotate: false
+  xy: 622, 2
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+fire8
+  rotate: false
+  xy: 632, 49
+  size: 64, 114
+  orig: 64, 114
+  offset: 0, 0
+  index: -1
+mushroom2
+  rotate: false
+  xy: 656, 2
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+mushroom3
+  rotate: false
+  xy: 690, 2
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+e3
+  rotate: false
+  xy: 775, 68
+  size: 230, 237
+  orig: 230, 237
+  offset: 0, 0
+  index: -1
+redBoomerang1
+  rotate: false
+  xy: 724, 115
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+evo6
+  rotate: false
+  xy: 698, 49
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Smoke1
+  rotate: false
+  xy: 764, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+mushroomDeath
+  rotate: false
+  xy: 724, 2
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+Smoke2
+  rotate: false
+  xy: 830, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Smoke3
+  rotate: false
+  xy: 896, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+flower3
+  rotate: false
+  xy: 962, 2
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+
+EvoRunnerAssets3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+burning_crate05
+  rotate: false
+  xy: 1, 761
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+burning_crate06
+  rotate: false
+  xy: 1, 503
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+burning_crate07
+  rotate: false
+  xy: 259, 761
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+burning_crate08
+  rotate: false
+  xy: 1, 245
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+burning_crate09
+  rotate: false
+  xy: 259, 503
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+burning_crate10
+  rotate: false
+  xy: 517, 761
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+burning_crate11
+  rotate: false
+  xy: 259, 245
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+burning_crate12
+  rotate: false
+  xy: 517, 503
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+burning_crate13
+  rotate: false
+  xy: 517, 245
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+e6
+  rotate: false
+  xy: 1, 67
+  size: 180, 176
+  orig: 180, 176
+  offset: 0, 0
+  index: -1
+Healer_Female_LFF
+  rotate: false
+  xy: 775, 927
+  size: 44, 90
+  orig: 44, 90
+  offset: 0, 0
+  index: -1
+Healer_Female_Standing
+  rotate: false
+  xy: 183, 149
+  size: 40, 94
+  orig: 40, 94
+  offset: 0, 0
+  index: -1
+Mage_Female_RFF
+  rotate: false
+  xy: 775, 835
+  size: 44, 90
+  orig: 44, 90
+  offset: 0, 0
+  index: -1
+Healer_Female_RFF
+  rotate: false
+  xy: 821, 927
+  size: 40, 90
+  orig: 40, 90
+  offset: 0, 0
+  index: -1
+Smoke4
+  rotate: false
+  xy: 1, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Smoke5
+  rotate: false
+  xy: 225, 179
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Smoke6
+  rotate: false
+  xy: 863, 953
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Smoke7
+  rotate: false
+  xy: 67, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Smoke8
+  rotate: false
+  xy: 291, 179
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Base_Female2_Standing
+  rotate: false
+  xy: 775, 748
+  size: 34, 85
+  orig: 34, 85
+  offset: 0, 0
+  index: -1
+Base_Male_LFF
+  rotate: false
+  xy: 821, 840
+  size: 34, 85
+  orig: 34, 85
+  offset: 0, 0
+  index: -1
+Base_Male_RFF
+  rotate: false
+  xy: 775, 661
+  size: 34, 85
+  orig: 34, 85
+  offset: 0, 0
+  index: -1
+Base_Female_RFF
+  rotate: false
+  xy: 775, 575
+  size: 34, 84
+  orig: 34, 84
+  offset: 0, 0
+  index: -1
+Base_Female_LFF
+  rotate: false
+  xy: 775, 489
+  size: 32, 84
+  orig: 32, 84
+  offset: 0, 0
+  index: -1
+Ranger_Female_LFF
+  rotate: false
+  xy: 183, 78
+  size: 34, 69
+  orig: 34, 69
+  offset: 0, 0
+  index: -1
+EvoBall1
+  rotate: false
+  xy: 929, 967
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+flower1
+  rotate: false
+  xy: 775, 420
+  size: 32, 67
+  orig: 32, 67
+  offset: 0, 0
+  index: -1
+flowerDeath1
+  rotate: false
+  xy: 133, 1
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+flowerDeath2
+  rotate: false
+  xy: 357, 179
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+flowerDeath3
+  rotate: false
+  xy: 357, 179
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+redBoomerang2
+  rotate: false
+  xy: 391, 195
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+redBoomerang3
+  rotate: false
+  xy: 441, 195
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+redBoomerang4
+  rotate: false
+  xy: 491, 195
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+redBoomerang5
+  rotate: false
+  xy: 541, 195
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+redBoomerang6
+  rotate: false
+  xy: 591, 195
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+redBoomerang7
+  rotate: false
+  xy: 641, 195
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+ChildEvo_Standing
+  rotate: false
+  xy: 981, 968
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+EvoBall14
+  rotate: false
+  xy: 775, 369
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+EvoChild_LFF
+  rotate: false
+  xy: 775, 369
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+SamuraiEvo_LFF
+  rotate: false
+  xy: 691, 195
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+mushroomDeath2
+  rotate: false
+  xy: 775, 322
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+goldCoin9
+  rotate: false
+  xy: 725, 211
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+NinjaStar
+  rotate: false
+  xy: 775, 288
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+NinjaStar_Rotated_One
+  rotate: false
+  xy: 775, 254
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+healerAttack4
+  rotate: false
+  xy: 225, 146
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+NinjaStar_Rotated_Three
+  rotate: false
+  xy: 259, 145
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+NinjaStar_Rotated_Two
+  rotate: false
+  xy: 293, 145
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Platform3
+  rotate: false
+  xy: 327, 145
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+batDeath2
+  rotate: false
+  xy: 863, 926
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+pig_two
+  rotate: false
+  xy: 897, 926
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+pig_one
+  rotate: false
+  xy: 361, 154
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+
+EvoRunnerAssets4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+burning_crate14
+  rotate: false
+  xy: 1, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+burning_crate15
+  rotate: false
+  xy: 259, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

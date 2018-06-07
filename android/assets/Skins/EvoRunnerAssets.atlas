@@ -1,0 +1,850 @@
+
+EvoRunnerAssets.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+burning_crate00
+  rotate: false
+  xy: 1, 767
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+burning_crate01
+  rotate: false
+  xy: 1, 509
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+burning_crate02
+  rotate: false
+  xy: 259, 767
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+burning_crate03
+  rotate: false
+  xy: 1, 251
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+burning_crate04
+  rotate: false
+  xy: 259, 509
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+burning_crate05
+  rotate: false
+  xy: 517, 767
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+burning_crate06
+  rotate: false
+  xy: 259, 251
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+burning_crate07
+  rotate: false
+  xy: 517, 509
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+burning_crate08
+  rotate: false
+  xy: 517, 251
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+pig_flipped
+  rotate: false
+  xy: 1, 209
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+fire11
+  rotate: false
+  xy: 775, 886
+  size: 64, 137
+  orig: 64, 137
+  offset: 0, 0
+  index: -1
+fire12
+  rotate: false
+  xy: 1, 70
+  size: 64, 137
+  orig: 64, 137
+  offset: 0, 0
+  index: -1
+fire2
+  rotate: false
+  xy: 775, 749
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+fire7
+  rotate: false
+  xy: 841, 888
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+fire1
+  rotate: false
+  xy: 67, 74
+  size: 64, 133
+  orig: 64, 133
+  offset: 0, 0
+  index: -1
+fire6
+  rotate: false
+  xy: 775, 614
+  size: 64, 133
+  orig: 64, 133
+  offset: 0, 0
+  index: -1
+fire10
+  rotate: false
+  xy: 841, 754
+  size: 64, 132
+  orig: 64, 132
+  offset: 0, 0
+  index: -1
+fire5
+  rotate: false
+  xy: 907, 891
+  size: 64, 132
+  orig: 64, 132
+  offset: 0, 0
+  index: -1
+fire15
+  rotate: false
+  xy: 775, 482
+  size: 64, 130
+  orig: 64, 130
+  offset: 0, 0
+  index: -1
+fire14
+  rotate: false
+  xy: 841, 624
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+fire13
+  rotate: false
+  xy: 907, 763
+  size: 64, 126
+  orig: 64, 126
+  offset: 0, 0
+  index: -1
+fire4
+  rotate: false
+  xy: 775, 354
+  size: 64, 126
+  orig: 64, 126
+  offset: 0, 0
+  index: -1
+fire9
+  rotate: false
+  xy: 841, 496
+  size: 64, 126
+  orig: 64, 126
+  offset: 0, 0
+  index: -1
+fire3
+  rotate: false
+  xy: 907, 647
+  size: 64, 114
+  orig: 64, 114
+  offset: 0, 0
+  index: -1
+fire8
+  rotate: false
+  xy: 841, 380
+  size: 64, 114
+  orig: 64, 114
+  offset: 0, 0
+  index: -1
+EvoBall6
+  rotate: false
+  xy: 973, 963
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+Platform1
+  rotate: false
+  xy: 183, 217
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+EvoBall1
+  rotate: false
+  xy: 973, 911
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Mage_Female_Standing
+  rotate: false
+  xy: 133, 113
+  size: 43, 94
+  orig: 43, 94
+  offset: 0, 0
+  index: -1
+Ranger_Female_RFF
+  rotate: false
+  xy: 1, 1
+  size: 34, 67
+  orig: 34, 67
+  offset: 0, 0
+  index: -1
+Healer_Female_LFF
+  rotate: false
+  xy: 775, 262
+  size: 44, 90
+  orig: 44, 90
+  offset: 0, 0
+  index: -1
+Healer_Female_Standing
+  rotate: false
+  xy: 907, 551
+  size: 40, 94
+  orig: 40, 94
+  offset: 0, 0
+  index: -1
+Mage_Female_RFF
+  rotate: false
+  xy: 973, 819
+  size: 44, 90
+  orig: 44, 90
+  offset: 0, 0
+  index: -1
+Mage_Female_LFF
+  rotate: false
+  xy: 973, 727
+  size: 43, 90
+  orig: 43, 90
+  offset: 0, 0
+  index: -1
+Healer_Female_RFF
+  rotate: false
+  xy: 907, 459
+  size: 40, 90
+  orig: 40, 90
+  offset: 0, 0
+  index: -1
+Platform2
+  rotate: false
+  xy: 313, 217
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+Ranger_Female_Standing
+  rotate: false
+  xy: 973, 646
+  size: 35, 79
+  orig: 35, 79
+  offset: 0, 0
+  index: -1
+Base_Female2_LFF
+  rotate: false
+  xy: 907, 378
+  size: 34, 79
+  orig: 34, 79
+  offset: 0, 0
+  index: -1
+Base_Male_Standing
+  rotate: false
+  xy: 821, 263
+  size: 34, 89
+  orig: 34, 89
+  offset: 0, 0
+  index: -1
+Smoke1
+  rotate: false
+  xy: 949, 580
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Smoke2
+  rotate: false
+  xy: 949, 514
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Smoke3
+  rotate: false
+  xy: 949, 448
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Smoke4
+  rotate: false
+  xy: 943, 382
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Base_Female_Standing
+  rotate: false
+  xy: 857, 290
+  size: 34, 88
+  orig: 34, 88
+  offset: 0, 0
+  index: -1
+Base_Female2_Standing
+  rotate: false
+  xy: 893, 291
+  size: 34, 85
+  orig: 34, 85
+  offset: 0, 0
+  index: -1
+Base_Male_LFF
+  rotate: false
+  xy: 929, 291
+  size: 34, 85
+  orig: 34, 85
+  offset: 0, 0
+  index: -1
+EvoBall9_One
+  rotate: false
+  xy: 965, 324
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+Smoke5
+  rotate: false
+  xy: 411, 185
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Smoke6
+  rotate: false
+  xy: 477, 185
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Smoke7
+  rotate: false
+  xy: 543, 185
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Smoke8
+  rotate: false
+  xy: 609, 185
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+EvoBall7
+  rotate: false
+  xy: 675, 188
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+Base_Female2_RFF
+  rotate: false
+  xy: 737, 174
+  size: 34, 75
+  orig: 34, 75
+  offset: 0, 0
+  index: -1
+Base_Male_RFF
+  rotate: false
+  xy: 178, 122
+  size: 34, 85
+  orig: 34, 85
+  offset: 0, 0
+  index: -1
+Base_Female_RFF
+  rotate: false
+  xy: 214, 131
+  size: 34, 84
+  orig: 34, 84
+  offset: 0, 0
+  index: -1
+EvoBall10
+  rotate: false
+  xy: 250, 157
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+EvoBall11
+  rotate: false
+  xy: 312, 157
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+BaseEvo_LFF
+  rotate: false
+  xy: 374, 164
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+EvoBall8
+  rotate: false
+  xy: 965, 265
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+EvoBall12
+  rotate: false
+  xy: 37, 10
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+Mage_Male_LFF
+  rotate: false
+  xy: 99, 1
+  size: 34, 71
+  orig: 34, 71
+  offset: 0, 0
+  index: -1
+EvoBall13
+  rotate: false
+  xy: 250, 97
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+EvoBall8_One
+  rotate: false
+  xy: 312, 102
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+LavaMove3
+  rotate: false
+  xy: 411, 164
+  size: 65, 19
+  orig: 65, 19
+  offset: 0, 0
+  index: -1
+Base_Female_LFF
+  rotate: false
+  xy: 135, 27
+  size: 32, 84
+  orig: 32, 84
+  offset: 0, 0
+  index: -1
+Mage_Male_Standing
+  rotate: false
+  xy: 169, 36
+  size: 34, 75
+  orig: 34, 75
+  offset: 0, 0
+  index: -1
+Mage_Male_RFF
+  rotate: false
+  xy: 214, 57
+  size: 34, 72
+  orig: 34, 72
+  offset: 0, 0
+  index: -1
+EvoBall9
+  rotate: false
+  xy: 250, 44
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+Ranger_Female_LFF
+  rotate: false
+  xy: 773, 180
+  size: 34, 69
+  orig: 34, 69
+  offset: 0, 0
+  index: -1
+LavaMove2
+  rotate: false
+  xy: 478, 160
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+EvoBall2
+  rotate: false
+  xy: 857, 238
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+EvoBall3
+  rotate: false
+  xy: 894, 239
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+EvoBall4
+  rotate: false
+  xy: 894, 239
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+BaseEvo_RFF
+  rotate: false
+  xy: 931, 238
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+EvoBall5
+  rotate: false
+  xy: 965, 213
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+LavaDeath1
+  rotate: false
+  xy: 525, 165
+  size: 40, 18
+  orig: 40, 18
+  offset: 0, 0
+  index: -1
+BaseEvo_Standing
+  rotate: false
+  xy: 305, 43
+  size: 28, 52
+  orig: 28, 52
+  offset: 0, 0
+  index: -1
+Elf_LeftFootForward
+  rotate: false
+  xy: 335, 48
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+bat4
+  rotate: false
+  xy: 335, 1
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+Elf_RightFootForward
+  rotate: false
+  xy: 369, 103
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+SamuraiEvo_RFF
+  rotate: false
+  xy: 369, 49
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+ChildEvo_RFF
+  rotate: false
+  xy: 403, 113
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+ChildEvo_Standing
+  rotate: false
+  xy: 403, 62
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+EvoBall14
+  rotate: false
+  xy: 437, 113
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+EvoChild_LFF
+  rotate: false
+  xy: 437, 113
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+SamuraiEvo_LFF
+  rotate: false
+  xy: 437, 63
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+bat2
+  rotate: false
+  xy: 369, 7
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+SamuraiEvo_Standing
+  rotate: false
+  xy: 403, 9
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+EvoRunner
+  rotate: false
+  xy: 471, 123
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+goldCoin1
+  rotate: false
+  xy: 471, 89
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bat1
+  rotate: false
+  xy: 471, 62
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+pig_one
+  rotate: false
+  xy: 135, 2
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+goldCoin2
+  rotate: false
+  xy: 169, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+LavaDeath3
+  rotate: false
+  xy: 37, 5
+  size: 50, 3
+  orig: 50, 3
+  offset: 0, 0
+  index: -1
+bat3
+  rotate: false
+  xy: 567, 155
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+goldCoin3
+  rotate: false
+  xy: 601, 151
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+goldCoin4
+  rotate: false
+  xy: 635, 151
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+LavaDeath2
+  rotate: false
+  xy: 525, 155
+  size: 40, 8
+  orig: 40, 8
+  offset: 0, 0
+  index: -1
+goldCoin5
+  rotate: false
+  xy: 505, 121
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+goldCoin6
+  rotate: false
+  xy: 505, 87
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+goldCoin7
+  rotate: false
+  xy: 539, 121
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+goldCoin8
+  rotate: false
+  xy: 539, 87
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+goldCoin9
+  rotate: false
+  xy: 505, 53
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+NinjaStar
+  rotate: false
+  xy: 539, 53
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+CoinCollected
+  rotate: false
+  xy: 573, 128
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+NinjaStar_Rotated_One
+  rotate: false
+  xy: 573, 94
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+NinjaStar_Rotated_Three
+  rotate: false
+  xy: 573, 60
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+NinjaStar_Rotated_Two
+  rotate: false
+  xy: 205, 23
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Platform3
+  rotate: false
+  xy: 607, 117
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+pig_three
+  rotate: false
+  xy: 607, 87
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+pig_two
+  rotate: false
+  xy: 607, 60
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+Lava1
+  rotate: false
+  xy: 641, 121
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+Coin
+  rotate: false
+  xy: 1002, 247
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+
+EvoRunnerAssets2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+burning_crate09
+  rotate: false
+  xy: 1, 517
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+burning_crate10
+  rotate: false
+  xy: 1, 259
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+burning_crate11
+  rotate: false
+  xy: 259, 517
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+burning_crate12
+  rotate: false
+  xy: 1, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+burning_crate13
+  rotate: false
+  xy: 259, 259
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+burning_crate14
+  rotate: false
+  xy: 517, 517
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+burning_crate15
+  rotate: false
+  xy: 259, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

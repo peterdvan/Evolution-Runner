@@ -1,0 +1,61 @@
+
+Dragon.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+childDragon
+  rotate: false
+  xy: 1, 23
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+childDragonAttack
+  rotate: false
+  xy: 43, 29
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+childDragonLeft
+  rotate: false
+  xy: 79, 29
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+childDragonRight
+  rotate: false
+  xy: 115, 29
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+babyDragon
+  rotate: false
+  xy: 1, 1
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+babyDragonLeftWing
+  rotate: false
+  xy: 23, 1
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+babyDragonRightWing
+  rotate: false
+  xy: 151, 43
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragonAttack
+  rotate: false
+  xy: 173, 43
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
