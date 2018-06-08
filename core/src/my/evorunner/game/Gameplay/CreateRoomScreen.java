@@ -99,7 +99,7 @@ public class CreateRoomScreen implements Screen{
                 int betAmount = Integer.parseInt(bet.getSelected().toString());
                 int savedCoins = EvoRunner.savedData.getInteger("coins");
                 EvoRunner.savedData.putInteger("bet", betAmount);
-                if(betAmount < savedCoins) {
+                if(betAmount <= savedCoins) {
                     parent.multiplayerLobby.socket = socket;
                     parent.multiplayerLobby.roomHost = socket.id();
                     createRoom();

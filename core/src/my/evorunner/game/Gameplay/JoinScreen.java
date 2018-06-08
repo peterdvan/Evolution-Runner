@@ -243,6 +243,8 @@ public class JoinScreen implements Screen, InputProcessor {
             public void call(Object... args) {
                 JSONArray objects = (JSONArray) args[0];
                 try {
+                    stage.clear();
+                    addUI();
                     for (int i = 0; i < objects.length(); i++) {
                         Gdx.app.log("multiplayer", "showing room: " + i);
                         int numberPlayers = (int) objects.getJSONObject(i).getJSONArray("players").length();
@@ -252,7 +254,7 @@ public class JoinScreen implements Screen, InputProcessor {
                         int bet = (int) objects.getJSONObject(i).getJSONObject("game").getInt("bet");
                         addLobby("Room: " + roomName + "\nMax Players: " +
                         maxPlayers + "\nPlayers joined: " + (numberPlayers) +
-                                "\nBet Amount: " + bet,roomHost, SCREEN_HEIGHT - (150 + (i * 150)),bet);
+                                "\nBet Amount: " + bet,roomHost, SCREEN_HEIGHT - (150 + (i * 300)),bet);
                     }
                 } catch (JSONException e) {
                     Gdx.app.log("multiplayer", "unable to show rooms");
